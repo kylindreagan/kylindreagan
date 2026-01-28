@@ -54,9 +54,3 @@ Currently exploring how **algorithmic analysis** and **data-driven modeling** in
 
 ![Kylind's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylindReagan&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KylindReagan&layout=compact&theme=tokyonight)
-
----
-
-## 🧠 Fun Fact  
-
-I love tackling competitive programming problems and exploring how **probabilistic and spectral methods** can make algorithms not just faster—but smarter.
