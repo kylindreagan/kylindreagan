@@ -1,5 +1,12 @@
 # Welcome to the GitHub of Kylind Reagan!
 
+---
+
+*"It is impossible to be a mathematician without being a poet in soul."*  
+— Sofia Kovalevskaya
+
+---
+
  **Mathematics & Computer Science Student** at *Maryville College* interested in Grad School!
  *Minors:* Statistics and Data Analytics
 
