@@ -37,7 +37,7 @@ Compete in ACM-style programming contests and help mentor peers in algorithmic p
 ## 📫 Connect with Me  
 
 - ✉️ [Email](mailto:kylind.reagan@my.maryvillecollege.edu)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kylind-reagan-a97473249/) <!-- Replace with your actual link -->  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kylind-reagan-a97473249/)
 - 🌐 [GitHub](https://github.com/KylindReagan)  
 
 ---
