@@ -8,6 +8,7 @@
 ---
 
  **Mathematics & Computer Science Student** at *Maryville College* interested in Grad School!
+ 
  *Minors:* Statistics and Data Analytics
 
 ---
