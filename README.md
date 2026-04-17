@@ -17,7 +17,7 @@
 I’m passionate about the intersection of **mathematics and computer science**  
 I am currently focusing on my senior project on spectral shape descriptors!
 
-- **Current Research:** Spectral & topological shape descriptors, Laplace–Beltrami spectra, persistent homology  
+- **Current Research:** Spectral & topological shape descriptors, Laplace–Beltrami spectra, algorithms
 - **Interests:** Algorithm design, graph theory, 3d printing and modeling, topology
 - **Tech:** Python, C/C++/C#, Java, Linux & Bash, R, LaTeX
 -  **Top Projects:**  
