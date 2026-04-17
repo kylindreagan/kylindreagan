@@ -21,9 +21,9 @@ I am currently focusing on my senior project on spectral shape descriptors!
 - **Interests:** Algorithm design, graph theory, 3d printing and modeling, topology
 - **Tech:** Python, C/C++/C#, Java, Linux & Bash, R, LaTeX
 -  **Top Projects:**  
-  - **FTLCANplayer:** Faster-than-real-time CAN-bus simulation library for Python (developed at Oak Ridge National Lab)  
-  - **Spectral Geometry:** Shape-DNA and diffusion geometry experiments in Python  
-  - **CS Club Website:** Designed and maintain the official Maryville CS Club website  
+   - **FTLCANplayer:** Faster-than-real-time CAN-bus simulation library for Python (developed at Oak Ridge National Lab)  
+   - **Spectral Geometry:** Shape-DNA and diffusion geometry experiments in Python  
+   - **CS Club Website:** Designed and maintain the official Maryville CS Club website  
 
 ---
 
